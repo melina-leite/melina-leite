@@ -10,3 +10,9 @@ I'm Melina, a data scientist at the department of Ecology, University of São Pa
 - 😄 Pronouns: she/her
 
 
+---
+
+![github stats](https://github-readme-stats.vercel.app/api?username=melina-leite&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melina-leite&langs_count=6&hide=javascript,go,html,css,tex,%20Emacs%20%Lisp,Groff,Perl,Lua&theme=merko)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
