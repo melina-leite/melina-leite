@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I'm Melina, a data scientist at the department of Ecology, University of São Paulo (USP), Brazil.
-
-- 🔭 I’m currently working on finishing the last papers from my PhD thesis
-- 🌱 I’m currently learning Data Science through an MBA in Data Science at USP
-- 👯 I’m looking to collaborate on Open Science and reproducible research projects, especially in Ecology
+I'm Melina, an ecologist and data scientist at the Department of Ecology, University of São Paulo (USP), Brazil.
 
 - 📫 How to reach me: (https://melinaleite.weebly.com)
 - 😄 Pronouns: she/her
