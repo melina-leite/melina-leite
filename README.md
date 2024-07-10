@@ -3,7 +3,7 @@
 I'm Melina, an ecologist and data scientist at the Department of Ecology, University of São Paulo (USP), Brazil.
 
 - 📫 How to reach me: (https://melinaleite.weebly.com)
-- My academic CV in Rmarkdown/Latex: [cv_melinaleite](https://github.com/melina-leite/cv_melinaleite) 
+- My academic CV in Rmarkdown/Latex: [cv_melinaleite](https://github.com/melina-leite/cv_melinaleite/blob/main/melinaleite_cv.pdf) 
 - 😄 Pronouns: she/her
 
 
