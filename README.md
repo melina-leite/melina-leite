@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Melina, an ecologist and data scientist at the Department of Ecology, University of São Paulo (USP), Brazil.
+I'm Melina, an ecologist and data scientist.
+
+I'm working on a postdoc at the [Theoretical Ecology lab](https://www.uni-regensburg.de/biologie-vorklinische-medizin/theoretische-oekologie/startseite/index.html) at the University of Regensburg, Germany, with the R package [DHARMa](https://github.com/florianhartig/DHARMa) on diagnostics of generalized linear (mixed) models.
 
 - 📫 How to reach me: (https://melinaleite.weebly.com)
 - My academic CV in Rmarkdown/Latex: [cv_melinaleite](https://github.com/melina-leite/cv_melinaleite/blob/main/melinaleite_cv.pdf) 
